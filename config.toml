@@ -2,3 +2,7 @@ baseURL = 'http://wb2iss.github.io/'
 languageCode = 'en-us'
 title = 'SDR Receiver'
 theme = "ananke"
+
+[params]
+  body_classes = "helvetica bg-near-white"
+  post_content_classes = "helvetica bg-near-white"
