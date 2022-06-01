@@ -1,7 +1,7 @@
 ---
 title: "Helpfile Sdr Receiver"
 date: 2022-05-31T20:27:08-07:00
-draft: true
+draft: false 
 ---
 ### [Web Site](http://www.transitiontechnologyventures.com/sdr-receiver)
 ### [Quick Start](#quick-start)
